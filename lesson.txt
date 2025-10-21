@@ -537,3 +537,2077 @@ The Ultimate Goal: A Sustainable Security Environment
 Strategic Trade Controls are not about hindering trade; they are about securing it.
 They are a vital tool for preventing conflict escalation, protecting civilians, and upholding a rules-based international order.
 In an era of renewed great power competition, their role is more important than ever.
+
+WTO General Principles and GATT Exceptions
+
+Dr. A. Duisenbiyev
+
+Strategic Trade Control in the Multilateral Trading System
+1
+
+General Principles of the World Trade Organization and GATT
+Exceptions
+Strategic Trade Control and Non-Economic Trade Restrictions in the Multilateral Trading System
+Focus Areas:
+•
+•
+•
+•
+•
+
+WTO Structure and Core Principles
+GATT Articles and Exceptions Framework
+Security Exceptions (Article XXI)
+Strategic Trade Control Applications
+Contemporary Challenges and Interpretations
+
+Dr. A. Duisenbiyev
+2
+
+Understanding the Balance Between Trade and Security
+
+Learning Path:
+•
+•
+•
+•
+•
+•
+
+Foundation: WTO institutional framework and core principles
+Legal Framework: GATT provisions and exception mechanisms
+Security Focus: Article XXI and national security exceptions
+Practical Applications: How strategic trade controls fit within WTO law
+Contemporary Issues: Modern challenges and evolving interpretations
+Case Studies: Real-world applications and dispute resolution
+Central Question: How does the WTO framework accommodate legitimate security
+concerns while maintaining open multilateral trade?
+Dr. A. Duisenbiyev
+3
+
+Learning Objectives
+
+What We Will Achieve
+• Understand the foundational principles of the WTO and their relationship to
+strategic trade control
+• Analyze the legal framework for trade restrictions based on non-economic reasons
+• Examine GATT Article XXI (security exceptions) and its practical applications
+• Evaluate the balance between trade liberalization and national security objectives
+• Apply WTO principles to contemporary strategic trade control scenarios
+• Assess the effectiveness of exception mechanisms in addressing modern security
+challenges
+
+Dr. A. Duisenbiyev
+4
+
+Historical Context - From GATT to WTO
+Evolution of the Multilateral Trading System
+
+•
+•
+•
+•
+
+GATT Era (1947-1994):
+Post-WWII reconstruction and trade liberalization
+Cold War context and security considerations
+Limited institutional framework
+Focus on tariff reduction and trade barrier elimination
+
+•
+•
+•
+•
+•
+
+WTO Establishment (1986 - 1995):
+Uruguay Round negotiations and comprehensive reform
+Enhanced institutional structure and dispute settlement
+Expanded coverage (services, intellectual property, agriculture)
+Stronger legal framework and enforcement mechanisms
+Currently 164 member countries
+
+Security Dimension: Consistent recognition of legitimate security exceptions throughout evolution
+Dr. A. Duisenbiyev
+5
+
+WTO Institutional Structure
+The Architecture of Global Trade Governance
+Key Bodies:
+Ministerial Conference: Supreme decision-making body (biennial meetings)
+General Council: Regular oversight and dispute settlement body
+Goods Council: GATT implementation and interpretation
+Services Council: GATS administration
+TRIPS Council: Intellectual property rights governance
+
+•
+•
+•
+•
+•
+
+Decision-Making Process:
+
+•
+•
+•
+•
+
+Consensus-based approach
+One country, one vote principle
+Dispute settlement mechanism
+Trade policy review mechanism
+Membership: 164 countries representing 98% of global trade
+Dr. A. Duisenbiyev
+6
+
+Core WTO Principles - Overview
+The WTO system rests on six fundamental principles:
+• Non-discrimination (MFN and National Treatment)
+• Reciprocity
+• Binding and enforceable commitments
+• Transparency
+• Safety valves (exceptions and flexibility)
+• Market access
+These principles create a predictable and stable international trading environment while
+providing necessary flexibility for legitimate policy objectives.
+Dr. A. Duisenbiyev
+7
+
+Most-Favored-Nation (MFN) Treatment
+Article I of GATT:
+• Any advantage granted to one country must be extended to all WTO members
+• Ensures equal treatment and prevents discriminatory trade practices
+• Unconditional obligation with limited exceptions
+Strategic Implications:
+• Prevents preferential trade arrangements that could undermine multilateral
+cooperation
+• Ensures smaller nations receive equal treatment
+• Creates challenges for targeted sanctions and export controls
+Dr. A. Duisenbiyev
+8
+
+National Treatment Principle
+Article III of GATT:
+• Foreign products must receive treatment no less favorable than domestic
+products
+• Applies to internal taxes, regulations, and requirements
+• Protects against disguised protectionism
+Key Elements:
+• Covers "like products"
+• Applies after goods cross border
+• Extends to regulations affecting sale, distribution, and use
+Dr. A. Duisenbiyev
+9
+
+Reciprocity and Binding Commitments
+Reciprocity:
+• Mutual concessions in trade negotiations
+• Maintains balance of benefits and obligations
+• Drives progressive liberalization
+Binding Commitments:
+• Tariff bindings provide ceiling rates
+• Cannot be exceeded without compensation
+• Creates predictability for traders and investors
+• Violations subject to dispute settlement
+
+Dr. A. Duisenbiyev
+10
+
+Transparency Requirements
+Key Obligations:
+• Publication of trade laws and regulations
+• Notification of new measures to WTO
+• Regular trade policy reviews
+• Advance notice of regulatory changes
+Benefits:
+• Reduces uncertainty and transaction costs
+• Enables effective monitoring of compliance
+• Facilitates business planning and investment decisions
+• Supports dispute prevention
+
+Dr. A. Duisenbiyev
+11
+
+Market Access Commitments
+Tariff Reductions:
+• Progressive reduction of tariff barriers
+• Binding of tariff rates at negotiated levels
+• Elimination of quantitative restrictions (Article XI)
+
+Services Liberalization:
+• Specific commitments on market access
+• National treatment obligations
+• Recognition of regulatory autonomy
+Dr. A. Duisenbiyev
+12
+
+Introduction to GATT Exceptions
+Purpose of Exceptions:
+• Balance free trade with legitimate policy objectives
+• Allow flexibility for national priorities
+• Maintain system integrity while accommodating sovereign concerns
+Categories:
+• General Exceptions (Article XX)
+• Security Exceptions (Article XXI)
+• Balance of Payments (Article XII)
+• Economic Development (Article XVIII)
+
+Dr. A. Duisenbiyev
+13
+
+Article XX - General Exceptions (Part I)
+Structure:
+• Two-tier test: measure must fall under enumerated exception AND satisfy
+chapeau requirements
+• Exhaustive list of permissible exceptions
+• Subject to strict interpretation by dispute panels
+Key Exceptions:
+• (a) Public morals
+• (b) Human, animal, or plant life and health
+• (d) Customs enforcement
+• (g) Conservation of exhaustible natural resources
+Dr. A. Duisenbiyev
+14
+
+Article XX - General Exceptions (Part II)
+Additional Exceptions:
+• (e) Products of prison labor
+• (f) Artistic, historic, or archaeological treasures
+• (j) Essential commodities in short supply
+Chapeau Requirements:
+• Not applied in manner constituting arbitrary discrimination
+• Not disguised restriction on international trade
+• Between countries with same conditions
+
+Dr. A. Duisenbiyev
+15
+
+Article XXI - Security Exceptions
+Essential Security Interests:
+• (a) Information disclosure contrary to essential security interests
+• (b) Action taken for protection of essential security interests:
+• (i) Fissionable materials or materials for their production
+• (ii) Traffic in arms, ammunition, implements of war
+• (iii) Other goods/materials for military establishments
+• (c) Action pursuant to UN Charter obligations
+Self-Judging Nature:
+• Traditionally considered non-justiciable
+• Recent panels have exercised limited review
+Dr. A. Duisenbiyev
+16
+
+Strategic Trade Control and Article XXI
+Dual-Use Export Controls:
+• Goods with both civilian and military applications
+• Critical for national security and non-proliferation
+• Covered under Article XXI(b)(iii)
+Multilateral Control Regimes:
+• Wassenaar Arrangement (conventional arms and dual-use)
+• Nuclear Suppliers Group (nuclear technology)
+• Australia Group (chemical and biological weapons)
+• Missile Technology Control Regime (MTCR)
+
+Dr. A. Duisenbiyev
+17
+
+Case Study - Russia Traffic Rights (2019)
+Background:
+• Ukraine challenged Russian transit restrictions
+• Russia invoked Article XXI security exception
+• First substantive panel interpretation of security exceptions
+Panel Findings:
+• Article XXI is not completely self-judging
+• Must demonstrate plausible relationship to essential security interests
+• Emergency in international relations requirement must be objective
+• Russia's measures were justified under Article XXI(b)(iii)
+
+Dr. A. Duisenbiyev
+18
+
+Balance of Payments Exceptions
+Article XII - Safeguarding Balance of Payments:
+• Allows quantitative restrictions to address BOP difficulties
+• Must be temporary and progressively relaxed
+• Subject to IMF consultation requirements
+• Primarily used by developing countries
+Article XVIII - Economic Development:
+• Additional flexibility for developing countries
+• Allows infant industry protection
+• Permits restrictions for development programs
+
+Dr. A. Duisenbiyev
+19
+
+Sanitary and Phytosanitary Measures
+SPS Agreement:
+• Supplements Article XX(b) health exceptions
+• Requires scientific basis for measures
+• Harmonization with international standards encouraged
+• Risk assessment and precautionary approaches
+Strategic Implications:
+• Potential tool for indirect trade restrictions
+• Dual-use biological agents and toxins
+• Food security considerations
+• Biosecurity measures
+Dr. A. Duisenbiyev
+20
+
+Technical Barriers to Trade
+TBT Agreement:
+• Governs technical regulations and standards
+• Legitimate objectives include national security
+• Must be no more trade-restrictive than necessary
+• Encourages international standardization
+Applications:
+• Cybersecurity requirements
+• Encryption standards
+• Critical infrastructure protection
+• Technology transfer restrictions
+Dr. A. Duisenbiyev
+21
+
+Safeguards and Anti-Dumping
+Safeguard Measures (Article XIX):
+• Emergency protection against import surges
+• Must be applied on MFN basis
+• Temporary nature with compensation
+Anti-Dumping and Subsidies:
+• WTO agreements allow countervailing measures
+• Detailed procedural requirements
+• Economic injury determination required
+
+Dr. A. Duisenbiyev
+22
+
+Regional Trade Agreements
+Article XXIV - Customs Unions and FTAs:
+• Exception to MFN principle
+• Must eliminate substantially all trade
+• Cannot raise barriers to third parties
+• Growing trend in international trade
+Strategic Considerations:
+• Alignment of security partners
+• Technology sharing agreements
+• Defense industrial cooperation
+• Supply chain security
+
+Dr. A. Duisenbiyev
+23
+
+Current Challenges to WTO System
+Emerging Issues:
+• Digital trade and data flows
+• State-owned enterprises
+• Industrial subsidies and overcapacity
+• Climate change measures
+• National security concerns in technology trade
+System Pressures:
+• Appellate Body crisis
+• US-China trade tensions
+• Unilateral trade actions
+• Regional bloc formation
+Dr. A. Duisenbiyev
+24
+
+Technology Transfer and IP Security
+TRIPS Agreement:
+• Intellectual property protection standards
+• Technology transfer provisions
+• Compulsory licensing mechanisms
+• Enforcement requirements
+National Security Implications:
+• Critical technology protection
+• Foreign investment screening
+• Research security measures
+• Export control classifications
+
+Dr. A. Duisenbiyev
+25
+
+Digital Trade and Cybersecurity
+Emerging WTO Issues:
+• Data localization requirements
+• Cross-border data flows
+• Digital services taxation
+• E-commerce moratorium
+Security Considerations:
+• Critical information infrastructure
+• Supply chain cybersecurity
+• Technology sovereignty
+• Digital espionage threats
+Dr. A. Duisenbiyev
+26
+
+Environmental Measures and Trade
+Climate Change Policies:
+• Carbon border adjustments
+• Environmental standards
+• Green technology promotion
+• Sustainable development goals
+WTO Compatibility:
+• Article XX(b) and (g) exceptions
+• Non-discrimination requirements
+• Necessity test application
+• International cooperation importance
+Dr. A. Duisenbiyev
+27
+
+Best Practices for Strategic Trade Control
+Legal Compliance:
+• Clear articulation of security interests
+• Proportionate and non-discriminatory measures
+• Regular review and adjustment
+• Transparent procedures
+International Cooperation:
+• Multilateral control regime participation
+• Information sharing mechanisms
+• Harmonized control lists
+• Capacity building assistance
+Dr. A. Duisenbiyev
+28
+
+Future Developments
+Reform Initiatives:
+• WTO modernization proposals
+• Dispute settlement improvements
+• New agreement negotiations
+• Institutional adaptations
+Emerging Trends:
+• Supply chain resilience
+• Technology sovereignty
+• Green trade measures
+• Digital governance frameworks
+
+Dr. A. Duisenbiyev
+29
+
+Practical Applications
+For Governments:
+• Policy design and implementation
+• Legal risk assessment
+• International negotiations
+• Compliance monitoring
+For Business:
+• Export control compliance
+• Market access strategies
+• Risk management
+• Government relations
+
+Dr. A. Duisenbiyev
+30
+
+Key Takeaways
+Core Principles:
+• WTO system balances free trade with legitimate policy objectives
+• Exceptions provide necessary flexibility while maintaining system integrity
+• National security considerations have gained prominence
+Strategic Implications:
+• Growing intersection of trade and security policies
+• Need for careful legal analysis and implementation
+• Importance of international cooperation and dialogue
+
+Dr. A. Duisenbiyev
+31
+
+Conclusions and Next Steps
+System Evolution:
+• WTO continues adapting to new challenges
+• Security exceptions gaining renewed relevance
+• Need for balanced approach to trade and security
+Recommendations:
+• Strengthen multilateral cooperation
+• Enhance transparency and predictability
+• Develop new frameworks for emerging issues
+• Maintain commitment to rules-based system
+
+Dr. A. Duisenbiyev
+32
+
+LEARNING OUTCOMES
+Upon completion of this presentation, students will have achieved:
+• Comprehensive Understanding: Deep knowledge of WTO institutional structure and core
+principles governing international trade relations
+• Legal Framework Mastery: Ability to analyze and apply GATT exception provisions,
+particularly security exceptions under Article XXI
+• Strategic Analysis Skills: Competence in evaluating the intersection of trade law and
+national security considerations in strategic trade control
+• Practical Application Capability: Skills to design WTO-compliant trade control measures
+that balance commercial and security interests
+• Policy Development Expertise: Understanding of how to craft trade policies that utilize
+available exceptions while maintaining international cooperation
+
+Dr. A. Duisenbiyev
+33
+
+Kazakhstan's WTO Membership and Strategic
+Positioning
+WTO Accession Background:
+• Kazakhstan joined the WTO in November 2015 after 19 years of negotiations
+• Last Central Asian country to join the organization
+• Commitments include significant tariff reductions and market access improvements
+Strategic Geographic Position:
+• Located between Russia, China, and European markets
+• Critical transit corridor for Belt and Road Initiative
+• Landlocked country dependent on neighboring transit routes
+• Balancing relationships with major powers while maintaining sovereignty
+Economic Structure:
+• Resource-based economy (oil, gas, minerals, agricultural products)
+• Growing manufacturing and technology sectors
+• Diversification efforts under "Kazakhstan 2050" strategy
+Dr. A. Duisenbiyev
+34
+
+Application of GATT Exceptions to Kazakhstan's
+Context
+Article XXI Security Exceptions - Regional Applications:
+• Border Security Measures: Enhanced controls on dual-use goods transiting through
+unstable regional borders
+• Critical Infrastructure Protection: Restrictions on foreign investment in energy and
+telecommunications sectors
+• Regional Conflict Considerations: Potential need to restrict exports to conflict zones in
+neighboring regions
+
+Dr. A. Duisenbiyev
+35
+
+Application of GATT Exceptions to Kazakhstan's
+Context
+Article XX General Exceptions - Practical Uses:
+• Environmental Protection (XX(g)): Controls on mining equipment exports to
+protect natural resources
+• Health Measures (XX(b)): Restrictions on chemical and biological dual-use
+materials
+• Public Morals (XX(a)): Potential restrictions on certain technologies conflicting
+with national values
+Balance of Payments (Article XII):
+• Historical use during economic transitions
+• Potential application during commodity price volatility
+Dr. A. Duisenbiyev
+36
+
+Kazakhstan's Strategic Trade Control Challenges
+and Opportunities
+Current Challenges:
+• Transit Trade Dilemmas: Balancing commitments to facilitate transit with security
+screening requirements
+• Technology Transfer Restrictions: Managing foreign investment while protecting
+critical technologies
+• Sanctions Compliance: Navigating international sanctions regimes while maintaining
+regional trade relationships
+• Dual-Use Export Controls: Developing capacity to identify and control sensitive dualuse goods
+
+Dr. A. Duisenbiyev
+37
+
+Kazakhstan's Strategic Trade Control Challenges
+and Opportunities
+WTO-Compliant Solutions:
+• Transparent Licensing Systems: Implementing clear, non-discriminatory export
+control procedures
+• National Security Reviews: Establishing foreign investment screening mechanisms
+under Article XXI
+• Regional Cooperation: Working with neighbors on coordinated approaches to
+strategic trade controls
+• Capacity Building: Developing technical expertise in export control implementation
+
+Dr. A. Duisenbiyev
+38
+
+
+                     International Strategic Trade Control Regimes:
+                                Preventing Proliferation
+
+
+
+
+    Dr. A. Duisenbiyev
+
+
+
+
+                 History, UNSCR 1540, and National Implementation
+
+
+1
+                                Learning Objectives
+                  By the end of this presentation, you will be able to:
+
+
+• Define the concept of "strategic trade control" and distinguish it from simple
+  export control.
+• Identify the four major international export control regimes and their primary
+  purposes.
+• Explain the historical context that led to the evolution of these regimes.
+• Analyze the transformative impact of UNSCR 1540 as a legally binding obligation
+  on all states.
+• Evaluate the specific obligations and strategic importance of implementation for
+  a country like Kazakhstan.
+
+                                                                          Dr. A. Duisenbiyev
+ 2
+                                       Agenda
+
+Introduction: The Problem of Proliferation
+
+Part 1: The Four Pillars - International Regimes (NSG, WA, MTCR, AG)
+Part 2: The Game Changer - UN Security Council Resolution 1540
+Part 3: Case Study - Obligations of Kazakhstan
+
+Conclusion & Key Takeaways
+Control Questions
+
+
+
+
+                                                                       Dr. A. Duisenbiyev
+ 3
+                        What is Strategic Trade Control?
+
+
+
+Beyond "Export Control": Managing the entire supply chain for sensitive
+  goods: export, import, transit, trans-shipment, brokering, financing.
+
+Goal: To prevent the proliferation of weapons of mass destruction (WMD)
+  and advanced conventional weapons while allowing legitimate trade.
+
+Key Challenge: Balancing Security, Economic, and Humanitarian interests.
+
+
+
+
+                                                                          Dr. A. Duisenbiyev
+4
+                                   Why is it Necessary?
+
+
+
+Dual-Use Dilemma: Many technologies have both civilian and military applications
+                (e.g., chemicals, lasers, software, materials).
+
+Globalized Supply Chains: Components from multiple countries can be diverted for
+                               illicit purposes.
+
+    Non-State Actors: Terrorist groups and rogue networks seek WMD capabilities.
+
+
+
+
+                                                                                   Dr. A. Duisenbiyev
+5
+                 Part 1: The Four Pillars - International Regimes
+
+
+                        Introduction to Multilateral Regimes
+
+
+What they are: Informal, voluntary groups of technology-supplier countries.
+
+          How they work: Through consensus-based decision-making.
+
+        Their output: Common control lists and best practice guidelines.
+
+     They are NOT treaties: They are politically, not legally, binding for their
+                                  members.
+                                                                                   Dr. A. Duisenbiyev
+ 6
+                            1. Nuclear Suppliers Group (NSG)
+
+
+Founded: 1974 (in response to India's
+           nuclear test).
+
+    Purpose: To prevent nuclear
+ proliferation by controlling nuclear
+    and nuclear-related exports.
+
+ Key Output: The NSG "Trigger List"
+        and Dual-Use List.
+
+
+                                                               Dr. A. Duisenbiyev
+      7
+                      What is NSG and How the NSG Works
+
+
+     It is a Group of nuclear supplier countries that seek to prevent nuclear
+        proliferation by controlling the export of materials, equipment and
+           technology that can be used to manufacture nuclear weapons.
+
+
+
+                  Guidelines: Sets rules for nuclear transfers.
+Control Lists: Items that "trigger" the requirement for IAEA safeguards in the
+                               recipient country.
+         Principle: Exercise restraint if there is a risk of proliferation.
+
+                                                                                Dr. A. Duisenbiyev
+ 8
+    Dr. A. Duisenbiyev
+9
+                                    2. Australia Group (AG)
+
+ Founded: 1985 (in response to chemical
+     weapons use in Iran-Iraq war).
+
+ Purpose: To prevent the proliferation of
+    chemical and biological weapons.
+
+Focus: Control lists for chemical precursors,
+  biological agents, and related dual-use
+                 equipment.
+
+
+
+                                                              Dr. A. Duisenbiyev
+       10
+     How it works?
+
+
+
+
+                     Dr. A. Duisenbiyev
+11
+  Export licensing measures demonstrate the determination of Australia
+Group countries to avoid involvement in the proliferation of these weapons
+                in violation of international law and norms.
+
+In addition to being consistent with non-proliferation provisions at the CWC
+  and BWC, such measures are required at all states to ensure compliance
+                      with UN Security Resolution 1540.
+
+
+
+
+                                                                          Dr. A. Duisenbiyev
+12
+     Dr. A. Duisenbiyev
+13
+                                  Missile Technology Control Regime (MTCR)
+Founded: 1987.
+
+Purpose: To limit the proliferation of missiles and UAVs for
+WMD delivery.
+
+Key Concept: "Strong presumption of denial" for exports of
+complete Category I systems (capable of delivering 500kg
+payload over 300km).
+
+
+
+
+The key concept of a "strong presumption of denial" for Category I systems under the Missile Technology Control
+Regime (MTCR) is a policy that treats the export of these sensitive missile and drone systems as highly risky and should
+generally be denied.
+
+Category I includes systems capable of delivering a 500kg payload over 300km, and while the MTCR is voluntary,
+member states implement this presumption through their national laws, setting a very high bar for approval only in
+extraordinary circumstances.
+                                                                                                            Dr. A. Duisenbiyev
+         14
+                                          The Wassenaar Arrangement (WA)
+
+Founded: 1996 (successor to Cold War's COCOM).
+
+Purpose: To promote transparency and responsibility in transfers
+of conventional arms and dual-use technologies.
+
+Scope: The broadest regime, covering everything not covered by
+the others (advanced materials, electronics, sensors, propulsion).
+
+
+https://www.wassenaar.org/
+
+https://www.wassenaar.org/what-is-the-wassenaar-arrangement/
+
+
+
+
+                                                                           Dr. A. Duisenbiyev
+         15
+                                    Wassenaar Arrangement: Key Features
+
+Two Main Lists: Munitions List & Dual-Use List.
+
+Information Exchange: Members share data on denials of sensitive exports to prevent "undercutting”
+
+Critical for: Controlling emerging technologies (e.g., cyber-surveillance tools).
+
+
+
+The Munitions List contains items designed exclusively for military use, such as weapons and related technolog
+
+The Dual-Use List includes commercial items with potential military or weapons of mass destruction (WMD)
+applications, like specialized chemicals, nuclear technology, and advanced radar systems.
+
+Both lists are critical components of national export control frameworks, regulating the international trade of strategic
+goods to prevent proliferation and enhance security.
+
+                                                                                                            Dr. A. Duisenbiyev
+       16
+                                        The Evolution of the Regimes
+
+
+Cold War (COCOM): Bilateral East-West control.
+
+Post-Cold War: Expansion to include former Eastern
+Bloc countries. Focus shifts to universal proliferation
+threats.
+
+1990s-2000s: Adaptation to new threats (e.g., non-
+state actors, intangible technology transfer).
+
+Present: Challenges of emerging technologies (AI,
+biotech, quantum computing).
+
+
+
+
+                                                                       Dr. A. Duisenbiyev
+      17
+                              Part 2: The Game Changer - UNSCR 1540
+
+Slide 14: Introduction to UNSCR 1540 (2004)
+
+What it is: A legally binding resolution adopted
+under Chapter VII of the UN Charter.
+
+Why it's different: It applies to ALL UN Member
+States, not just regime members.
+
+Core Objective: To keep WMDs out of the hands
+of non-state actors.
+
+
+
+
+                                                                      Dr. A. Duisenbiyev
+       18
+                                   The Three Pillars of UNSCR 1540
+
+
+
+The resolution obliges all states to:
+
+Prohibit non-state actors from acquiring WMDs.
+
+Secure related materials within their borders.
+
+Control and physically protect these materials.
+
+
+
+
+                                                                     Dr. A. Duisenbiyev
+      19
+                                  Pillar 1: Proliferation Prevention
+
+
+Obligation: Adopt and enforce laws that criminalize WMD-related activities by non-state actors.
+
+Meaning: A terrorist group attempting to acquire WMD materials must be acting illegally under a
+state's domestic law.
+
+
+
+
+                                                                                         Dr. A. Duisenbiyev
+      20
+                        Pillar 2: Border & Law Enforcement Controls
+
+     Obligation: Develop and maintain effective border controls, law enforcement, and
+                                    accounting measures.
+     Goal: To detect, deter, and prevent the illicit trafficking of WMD-related materials.
+
+
+
+
+                                                                                         Dr. A. Duisenbiyev
+21
+                          Pillar 3: Export Control Systems
+
+
+     Obligation: Establish a comprehensive national export control system.
+                                 This includes:
+                             A national legal framework.
+                           A dedicated licensing authority.
+                                National control lists.
+                               Customs enforcement.
+                               Penalties for violations.
+
+
+
+
+                                                                             Dr. A. Duisenbiyev
+22
+                   Examples of activities that are subjected to export
+                                   controls include:
+
+• Transferring controlled information, such as technical data, to persons and entities
+  across international borders.
+
+• Shipping controlled physical items such as scientific equipment that requires export
+  licenses from one country or jurisdiction to another.
+
+• Verbal, written, electronic, and/or visual disclosures of controlled scientific and
+  technical information related to export-controlled items of foreign persons within a
+  country.
+
+• Provisions of services and/or conducting financial transactions with an embargoed or
+  boycotted country, restricted individuals, or entities.
+                                                                               Dr. A. Duisenbiyev
+     23
+                                          The 1540 Committee
+
+
+Role: To monitor implementation and
+facilitate assistance.
+
+Function: Reviews national reports from
+states and matches offers of assistance
+with requests.
+
+Significance: Creates a mechanism for
+compliance and support.
+
+
+
+
+                                                               Dr. A. Duisenbiyev
+       24
+                               UNSCR 1540 vs. The Regimes
+
+
+
+Regimes: Voluntary, technical guidelines for supplier nations.
+
+UNSCR 1540: Legally binding, universal obligation on all nations to create a basic
+control system.
+
+Synergy: 1540 universalizes the principles of the regimes.
+
+
+
+
+                                                                                     Dr. A. Duisenbiyev
+ 25
+                            Case Study - Obligations of Kazakhstan
+
+
+
+                              Kazakhstan's Strategic Context
+
+     Historical: Voluntarily relinquished the world's 4th largest nuclear arsenal in the
+                                           1990s.
+
+             Geographic: A large landlocked country, potential transit route.
+
+Political: A leader in non-proliferation, former UNSC non-permanent member (2017-
+                                          2018).
+
+
+
+                                                                                           Dr. A. Duisenbiyev
+26
+                      Kazakhstan's Obligations under UNSCR 1540
+
+
+
+Legislate: Maintain and enforce laws prohibiting WMD proliferation by non-state
+actors.
+
+Implement: Ensure its national export control system is effective and covers all
+relevant items.
+
+Report: Submit regular reports on implementation progress to the 1540 Committee.
+
+Cooperate: Engage with international partners for assistance and best practices.
+
+
+
+                                                                                   Dr. A. Duisenbiyev
+ 27
+                       Building a National System: Key Components
+
+
+     National Legislation: The foundational law (e.g., "On Export Control").
+
+     Control Lists: National lists aligned with NSG, AG, MTCR, and WA lists.
+
+     Licensing Authority: A government body to review and approve/deny export licenses.
+
+     Enforcement Agencies: Customs, border guards, and law enforcement trained to
+     identify controlled items.
+
+
+
+
+                                                                                    Dr. A. Duisenbiyev
+28
+                      Benefits of Implementation for Kazakhstan
+
+
+
+ Enhanced Security: Protects against being used as a transit point for proliferation.
+
+ Economic Access: Builds trust with trading partners, facilitates access to sensitive
+                             dual-use technologies.
+
+International Standing: Reinforces its role as a responsible global actor and leader in
+                                 non-proliferation.
+
+
+
+
+                                                                                        Dr. A. Duisenbiyev
+29
+                      Challenges for Kazakhstan & Similar States
+
+
+
+      Resource Intensity: Maintaining expertise and training officials is costly.
+
+Keeping Pace: Continuously updating control lists with rapid technological change.
+
+ Balancing Act: Ensuring controls are effective without stifling legitimate trade and
+                             economic development.
+
+
+
+
+                                                                                        Dr. A. Duisenbiyev
+30
+                                       Conclusion
+
+
+
+                     Key Takeaway 1: A Layered Defense
+
+           The global non-proliferation architecture is multi-layered:
+
+     Voluntary Regimes (NSG, WA, MTCR, AG) set high technical standards.
+
+          UNSCR 1540 provides the universal legal floor for all states.
+
+
+
+
+                                                                           Dr. A. Duisenbiyev
+31
+                                       Conclusion
+
+
+
+               Key Takeaway 2: From Export to Strategic Control
+
+The field has evolved from simple export control to comprehensive strategic trade
+       control, managing the entire supply chain to address modern threats.
+
+
+
+
+                                                                                Dr. A. Duisenbiyev
+32
+                                           Conclusion
+
+
+
+                      Key Takeaway 3: A Shared Responsibility
+
+Proliferation is a global threat requiring a global solution. Effective implementation of
+    strategic trade controls is a national security imperative and a cornerstone of
+                                   international stability.
+
+
+
+
+                                                                                       Dr. A. Duisenbiyev
+ 33
+                                      Control Questions
+
+
+1. What is the fundamental difference between the Wassenaar Arrangement and UNSCR
+1540 in terms of their legal nature and scope of application?
+
+2. Describe the "dual-use dilemma" and explain why it is a central challenge for strategic
+trade control.
+
+3. How did the historical context of the Cold War and the post-Cold War era shape the
+evolution of the four major export control regimes?
+
+4. Beyond simply passing a law, what are the key components a country like Kazakhstan
+must establish to create an effective national strategic trade control system as required by
+UNSCR 1540?
+
+5. Why is the principle of "information exchange" among members (e.g., in the Wassenaar
+Arrangement) considered a critical mechanism for the effectiveness of these informal
+regimes?
+                                                                                      Dr. A. Duisenbiyev
+    34
+
+          Policy, Licensing, Implementation, and Enforcement
+                     of Strategic Trade Controls (STCs)
+
+
+
+
+    Dr. A. Duisenbiyev
+
+
+
+
+                         A Practical Guide for International Trade Professionals
+
+
+1
+                              Executive Summary
+
+
+ What are STCs? Governmental tools to manage the transfer of sensitive
+                                   items.
+Why do they matter? They are critical for national security, international
+    non-proliferation commitments, and corporate risk management.
+What will we cover? The full lifecycle: from the underlying policy, through
+    the licensing process, to practical implementation, and the severe
+                    consequences of non-enforcement.
+Key Takeaway: STCs are not a barrier to trade, but a framework for secure
+                     and responsible global business.
+
+
+                                                                          Dr. A. Duisenbiyev
+2
+                 Part 1: The Policy Foundation of STCs
+
+
+1. Defining Strategic Trade Controls
+
+2. The "What" and "Why" of Control Lists
+
+3. The Legal Hierarchy: From International Regimes to National
+Law
+
+4. Kazakhstan's Adoption of the EU Dual-Use List
+                                                                 Dr. A. Duisenbiyev
+ 3
+                               What Do STCs Really Include?
+
+
+        STCs are a comprehensive system governing more than just physical exports. They
+                                            encompass:
+•       Export Controls: Movement of items across borders.
+•       Import Controls: Bringing sensitive items into a country.
+•       Transit & Transshipment Controls: Items passing through a country's territory.
+•       Brokering Controls: Arranging deals between two foreign parties.
+•       Intangible Transfers: Electronic transmission of technology/software (e.g., email,
+        cloud uploads).
+•       Technical Assistance: Transfer of know-how, whether in-person or remote.
+
+                                                                                Dr. A. Duisenbiyev
+    4
+                         The Cornerstone: Control Lists
+
+
+• Dual-Use Items: Goods, software, and technology designed for civilian
+  use but which can have military applications (e.g., high-performance
+  computers, pathogens, specific chemicals, drones).
+• Military Items: Weapons, ammunition, military vehicles, and related
+  technology.
+• The "Catch-All" Clause: The legal authority to control an item not on a
+  control list if there is knowledge or suspicion of its intended use in WMD
+  or military activities in an embargoed destination.
+
+
+
+                                                                           Dr. A. Duisenbiyev
+ 5
+                      The Legal Framework: From Global to Local
+• International Regimes (The Policy Source):
+  • Wassenaar Arrangement: Conventional arms & dual-use.
+  • Nuclear Suppliers Group (NSG): Nuclear-related.
+  • Australia Group (AG): Chemical & Biological.
+  • Missile Technology Control Regime (MTCR): Missile systems.
+• Regional Implementation (The Regulation):
+  • European Union: EU Dual-Use Regulation (Regulation (EU) 2021/821) – a gold
+     standard.
+• National Law (The Enforceable Rule):
+  • Kazakhstan: Kazakhstan maintains its own national list of products subject to export
+     control, which is categorized in a similar way to the EU list.
+
+                                                                               Dr. A. Duisenbiyev
+       6
+                Kazakhstan's Use of the EU Dual-Use List: What It
+                                 Means for You
+
+
+ • Alignment: The list of controlled items (Annex I of the EU Regulation) is directly
+                                applicable in Kazakhstan.
+  • Practical Implication: If an item is controlled by the EU, it is highly likely to be
+   controlled by Kazakhstan. Your classification research for the EU market is directly
+                                         relevant.
+   • Benefit: Harmonization reduces complexity for companies operating in both
+                                      jurisdictions.
+• Action Point: Always consult the latest EU Dual-Use List as your primary reference
+                         for item classification in Kazakhstan.
+
+
+                                                                             Dr. A. Duisenbiyev
+ 7
+                     Part 2: The Licensing Ecosystem
+
+
+1.   Types of Licenses
+2.   The Heart of the Matter: End-Use and End-User
+3.   Navigating Transit and Brokering
+4.   The Invisible Challenge: Intangible Transfers
+
+
+
+
+                                                       Dr. A. Duisenbiyev
+ 8
+                                     Core License Types
+• Individual License: Specific to one exporter, one end-user, one set of items, and one
+  end-use. (Most common for sensitive transactions).
+
+• Global License: Covers multiple shipments of specified items to multiple pre-approved
+  end-users in one or more destination countries. (Requires a robust Internal
+  Compliance Program).
+
+• General License / General Authorization: A pre-published authorization for certain
+  low-risk items to certain low-risk destinations, under specific conditions. (e.g., EU
+  General Export Authorizations).
+
+
+
+                                                                                Dr. A. Duisenbiyev
+      9
+                Beyond Physical Exports: Brokering Licensing
+What is it? The act of negotiating or arranging a transaction involving the
+movement of controlled items from one foreign country to another
+foreign country.
+
+Example: A company in Kazakhstan arranges a sale of controlled machine
+tools from a supplier in Turkey to a buyer in Pakistan. This activity may
+require a brokering license from the Kazakh authorities.
+
+Key Question: "Am I the facilitator, not just the seller or buyer?"
+
+
+                                                                      Dr. A. Duisenbiyev
+   10
+                   Beyond Physical Exports: Transit & Transshipment
+                                      Licenses
+
+     Transit: Controlled items passing through a country's territory with an origin and
+                             destination outside that country.
+
+      Transshipment: Items being transferred from one conveyance to another in a
+                                    country's port.
+
+         The Rule: Many countries, including Kazakhstan, require a license for the
+     transit/transshipment of highly sensitive items, even if they never enter the local
+                                          market.
+
+Risk: Transshipment hubs are commonly used for diversion. Enhanced due diligence
+                                  is critical.
+                                                                               Dr. A. Duisenbiyev
+11
+                   The Invisible Export: Intangible Transfers
+
+Definition: The non-physical transfer of technology or software (e.g., via email, FTP,
+           cloud storage, video conferencing, or even in-person training).
+
+                                       Examples:
+       Emailing design plans for a controlled component to an overseas subsidiary.
+     Providing a password for a foreign national to download controlled source code.
+                    Remote troubleshooting of controlled equipment.
+
+     Crucial Point: A license may be required for an intangible transfer to a foreign
+                   destination, even if no physical goods are shipped.
+
+
+                                                                             Dr. A. Duisenbiyev
+12
+                    The Golden Key: End-Use Certificates
+
+What is it? A document issued by the government of the importing country
+ that provides an official assurance regarding the end-user and end-use of
+                                  the item.
+
+Purpose: It is a critical piece of evidence used by the exporting government
+                      to assess the risk of the transaction.
+
+Limitation: It is a useful tool, not a guarantee. It must be part of a broader
+                             due diligence process.
+
+
+
+                                                                             Dr. A. Duisenbiyev
+13
+                 The Ultimate Safeguard: End-Use Monitoring
+What is it? The process of verifying that the exported item is being used by the stated
+                           end-user for the stated end-use.
+
+                                       Types:
+               Pre-License Check: Verification before a license is issued.
+
+ Post-Shipment Verification (PSV): An on-site check after the item has been delivered.
+
+  Reality: PSVs are resource-intensive and are typically conducted only for the most
+ sensitive transactions and destinations. The primary responsibility for knowing your
+                           customer lies with the exporter.
+
+                                                                             Dr. A. Duisenbiyev
+   14
+               Part 3. Implementation - Building Your Defense
+
+
+
+1. The Business Imperative: The Internal Compliance Program (ICP)
+
+2. The 9 Core Elements of an Effective ICP
+
+3. Risk Assessment as Your Compass
+
+
+
+
+                                                                Dr. A. Duisenbiyev
+ 15
+                     The Internal Compliance Program (ICP) - Your First
+                                     Line of Defense
+ An ICP is a management system designed to ensure ongoing compliance with STC laws and
+         regulations. It is not just a policy document; it is an operational framework.
+
+                                   Why have one?
+   Legal Requirement: Often mandated for obtaining certain types of licenses (e.g., Global
+                                       Licenses).
+
+Risk Mitigation: Drastically reduces the risk of violations, penalties, and reputational damage.
+
+ Due Diligence Defense: Demonstrates to authorities that you have taken proactive steps to
+          comply, which can mitigate penalties in case of an inadvertent violation.
+                                                                                  Dr. A. Duisenbiyev
+      16
+              Element 1: Top-Level Management Commitment
+
+• Action: Publish a formal Compliance Policy signed by senior
+  leadership.
+
+• Evidence: Dedicate adequate resources (budget, personnel).
+
+• Result: Fosters a culture of compliance throughout the
+  organization.
+
+
+
+
+                                                                Dr. A. Duisenbiyev
+ 17
+             Element 2: Organization Structure, Responsibilities,
+                               and Reporting
+
+
+Action: Appoint a designated Compliance Officer with clear
+authority and independence.
+
+Evidence: Create organizational charts showing reporting lines
+for compliance matters.
+
+Result: Ensures accountability and a clear point of contact.
+
+
+                                                                    Dr. A. Duisenbiyev
+ 18
+                       Element 3: Transaction Screening Process
+
+
+Action: Implement a systematic process to screen every transaction against:
+
+      1.   Product Classification: Is the item controlled?
+      2.   Destination Screening: Is the country embargoed?
+      3.   End-User Screening: Is the party on a denied parties list?
+      4.   End-Use Analysis: Are there any "red flags"?
+
+Evidence: Checklists, automated screening tools, and documented review steps.
+
+
+                                                                          Dr. A. Duisenbiyev
+ 19
+                      Element 4: Training and Awareness
+
+
+• Action: Provide regular, role-specific training for all employees involved in
+  international trade (sales, logistics, R&D, legal).
+
+• Evidence: Training materials, attendance records, and quizzes.
+
+• Result: Empowers employees to be your "eyes and ears" on the ground.
+
+
+
+
+                                                                             Dr. A. Duisenbiyev
+ 20
+                     Element 5: Recordkeeping and Documentation
+
+
+
+Action: Maintain complete and accurate records of all transactions,
+classifications, licenses, and due diligence for a minimum of 5 years (or as
+required by law).
+
+Evidence: A centralized and organized document management system.
+
+Result: Essential for internal audits and demonstrating compliance during
+government inspections.
+
+
+
+                                                                               Dr. A. Duisenbiyev
+   21
+             Element 6: Audits and Performance Reviews
+• Action: Conduct periodic, independent internal audits of the
+  ICP to test its effectiveness.
+
+• Evidence: Audit plans, reports, and records of corrective
+  actions taken.
+
+• Result: Drives continuous improvement of the compliance
+  program.
+
+
+
+                                                                 Dr. A. Duisenbiyev
+ 22
+                  Elements 7-9: The Cycle of Compliance
+7. Risk Assessment: A continuous process to identify and assess the
+company's specific STC risks based on products, customers, and partners.
+
+8. Handling Non-Compliance & Disclosures: Establish clear procedures for
+reporting potential violations and for making voluntary disclosures to
+authorities.
+
+9. Physical and Information Security: Implement measures to prevent
+unauthorized access to controlled items and technical data.
+
+
+                                                                 Dr. A. Duisenbiyev
+   23
+               Part 4. Enforcement - The Cost of Failure
+
+
+1. Who are the Enforcers?
+
+2. Types of Violations
+
+3. Severe Consequences
+
+4. The Global Reach of Enforcement
+
+
+                                                           Dr. A. Duisenbiyev
+ 24
+                                 The Enforcement Landscape
+             Multiple government agencies work together to enforce STCs:
+
+•        Customs Authorities: Check shipments at the border.
+•        Export Control Agencies: Investigate violations, revoke licenses.
+•        Intelligence Services: Provide information on end-users.
+•        Prosecutors & Courts: Handle criminal cases.
+
+
+              Enforcement is proactive (inspections) and reactive
+                               (investigations).
+
+
+                                                                             Dr. A. Duisenbiyev
+    25
+                        What Constitutes a Violation?
+
+
+• Exporting without a required license.
+• Shipping to a denied party or embargoed destination.
+• Falsifying documents (e.g., incorrect classification, false end-user
+  statement).
+• Engaging in prohibited brokering activities.
+• Unauthorized intangible technology transfer.
+• "Knowledge" or "Willful Blindness": Ignoring clear "red flags" about a
+  transaction.
+
+
+
+                                                                           Dr. A. Duisenbiyev
+ 26
+                     Consequences of Non-Compliance
+
+Violations can lead to severe, company-ending penalties:
+
+• Monetary Fines: Can run into millions of dollars/euros.
+• Denial of Export Privileges: Effectively putting a company out of
+  international business.
+• Criminal Prosecution: Leading to imprisonment for individuals.
+• Reputational Damage: Loss of customer trust and investor confidence.
+• Debarment: Being banned from government contracts.
+
+
+                                                               Dr. A. Duisenbiyev
+   27
+                        Case Study: The Ripple Effect of a Violation
+    Scenario: An employee emails controlled encryption source code to a developer in a
+             non-embargoed country without a license, assuming it's low risk.
+
+• Violation: Unauthorized intangible transfer.
+• Discovery: Found during a routine audit of the ICP.
+
+                                           Consequences:
+         1. Internal: Disciplinary action, mandatory re-training, suspension of IT privileges.
+         2. External: Voluntary disclosure to authorities. Company faces a significant fine
+            but avoids criminal charges due to its strong ICP and proactive disclosure.
+
+•          Lesson: A strong ICP turns a potential disaster into a manageable compliance
+         event.
+                                                                                   Dr. A. Duisenbiyev
+    28
+                      Key Takeaways for the Trade Professional
+1. STCs are Broad: They govern physical goods, brokering, transit, and intangible
+   transfers.
+
+2. Know Your Lists: The EU Dual-Use List is your essential guide in Kazakhstan.
+
+3. Know Your Customer & End-Use: This is the cornerstone of due diligence.
+
+4. Your ICP is Your Shield: A robust, living compliance program is your best defense
+   against risk.
+
+5. Compliance is a Competitive Advantage: It protects your business, your
+   reputation, and your freedom to operate globally.
+                                                                          Dr. A. Duisenbiyev
+      29
+     Q&A and Thank You
+
+
+
+     Thank You
+
+
+
+     Questions?
+
+
+
+
+                         Dr. A. Duisenbiyev
+30
+     Dr. A. Duisenbiyev
+31
+
+
+                         Dual-Use Trade Control (WMD)
+
+
+
+
+    Dr. A. Duisenbiyev
+
+
+
+
+                          Nuclear Weapons & The Case of Kazakhstan
+
+
+1
+                 Dual-Use Trade Control: The Nuclear Challenge
+
+
+By the end of this presentation, you will be able to:
+
+• Define "dual-use" items in the context of nuclear weapons proliferation.
+
+• Identify and describe the three main sub-categories of nuclear weapons.
+
+• Explain the key international treaties and regimes governing nuclear trade (NPT, NSG).
+
+• Trace the evolution of Kazakhstan's export control system, from its nuclear history to its
+  current structure.
+
+
+                                                                                     Dr. A. Duisenbiyev
+  2
+                                            Agenda
+
+
+
+Part 1: The Dual-Use Dilemma in Nuclear Trade
+
+Part 2: Understanding Nuclear Weapons: Types & Technology
+
+Part 3: The International Control Framework (NPT & NSG)
+
+Part 4: Case Study: Kazakhstan's Path to a Control System
+
+Conclusion & Key Takeaways
+
+
+                                                            Dr. A. Duisenbiyev
+  3
+                     Part 1: The Dual-Use Dilemma in Nuclear Trade
+
+                               What are Dual-Use Items?
+
+Definition: Goods, software, and technologies designed for civilian use that can also
+ be used in the development, production, or use of weapons of mass destruction
+                         (WMD) or their delivery systems.
+
+Nuclear Examples: High-strength aluminum alloys (rockets vs. aircraft), high-speed
+   computers (research vs. simulations), machine tools (industry vs. centrifuge
+                        production), specific chemicals.
+
+     The Core Challenge: Distinguishing between legitimate civilian trade and illicit
+                                proliferation activities.
+
+
+                                                                                        Dr. A. Duisenbiyev
+ 4
+    Dr. A. Duisenbiyev
+5
+    REPORT FROM THE COMMISSION TO THE EUROPEAN
+             PARLIAMENT AND THE COUNCIL
+
+
+
+
+                                                 Dr. A. Duisenbiyev
+6
+                                     The Proliferation Supply Chain
+
+                       Proliferators rarely build everything from scratch.
+
+                            They rely on a global network to acquire:
+     •   Materials: Special nuclear materials (e.g., enriched uranium).
+     •   Components: Centrifuges, triggering mechanisms.
+     •   Technology: Blueprints, software, manufacturing know-how.
+
+
+Strategic Trade Controls are designed to disrupt this network at every stage: export,
+                          transit, brokering, and financing.
+
+
+
+
+                                                                                    Dr. A. Duisenbiyev
+ 7
+                              Why Control Dual-Use Items?
+
+• Prevent "Civilian" Programs from Masking Military Aims: A nuclear energy
+  program can be a cover for weapons development.
+
+• Address Modern Proliferation: Proliferators use commercially available technology
+  and evasion techniques.
+
+• International Legal Obligations: Required by UNSCR 1540 and the Treaty on the
+  Non-Proliferation of Nuclear Weapons (NPT).
+
+• National Security: Protects a country from being used as a transit point or
+  unwitting supplier.
+
+
+
+                                                                                  Dr. A. Duisenbiyev
+  8
+                  Part 2: Understanding Nuclear Weapons: Types &
+                                    Technology
+                        The Basic Principle: Nuclear Fission
+
+• Process: Splitting a heavy atomic nucleus (e.g., Uranium-235, Plutonium-239) into
+  lighter nuclei.
+
+• Result: Releases a tremendous amount of energy and neutrons.
+
+• Critical Mass: The minimum amount of fissile material needed to sustain an
+  explosive chain reaction.
+
+• Core Requirement: Weapons-grade highly enriched uranium (HEU) or plutonium.
+
+
+
+                                                                                  Dr. A. Duisenbiyev
+  9
+     Dr. A. Duisenbiyev
+10
+                       Nuclear Weapon Sub-Category 1: Fission Weapons
+                                    (The Atomic Bomb)
+
+         How it works: Achieves a supercritical mass of fissile material to create an
+                              uncontrolled chain reaction.
+
+                                         Two Main Designs:
+
+     •   Gun-Type: Fires one sub-critical piece of HEU into another. (Simple, but inefficient).
+
+     •   Implosion-Type: Uses conventional explosives to compress a sub-critical sphere of
+         plutonium into a supercritical state. (More efficient, more complex).
+
+
+
+
+                                                                                                  Dr. A. Duisenbiyev
+11
+                             Gun-Type Design: "Little Boy"
+
+Used on: Hiroshima (1945).
+
+  Fissile Material: Highly
+ Enriched Uranium (HEU).
+
+   Mechanism: A "gun"
+assembles two sub-critical
+     masses of HEU.
+
+
+
+
+                                                             Dr. A. Duisenbiyev
+12
+                            Implosion-Type Design: "Fat Man"
+
+
+     Used on: Nagasaki (1945).
+
+Fissile Material: Plutonium-239.
+
+      Mechanism: Conventional
+      explosives symmetrically
+     compress a plutonium core.
+
+ Why for Plutonium? Necessary
+due to plutonium's higher rate of
+      spontaneous fission.
+
+
+
+                                                               Dr. A. Duisenbiyev
+13
+                          Nuclear Weapon Sub-Category 2: Thermonuclear
+                                  Weapons (The Hydrogen Bomb)
+
+   How it works: A two-stage weapon.
+
+      Primary: A fission bomb (the trigger).
+
+ Secondary: Fusion fuel (deuterium, tritium) that
+  is compressed and heated by the primary's X-
+              rays, causing fusion.
+
+
+  Result: Significantly more powerful than
+fission weapons alone (megaton vs. kiloton
+                    yield).
+
+
+
+
+                                                                         Dr. A. Duisenbiyev
+      14
+                            Nuclear Weapon Sub-Category 3: Radiological
+                                     Weapons ("Dirty Bombs")
+
+     What it is NOT: A nuclear explosion.
+
+ How it works: Uses conventional explosives
+ (e.g., TNT) to disperse radioactive material
+   (e.g., from a hospital or industrial site).
+
+Primary Effect: Contamination and panic, not a
+                 massive blast.
+
+   Significance: Considered a weapon of
+ mass disruption; a key concern for non-state
+                    actors.
+
+
+
+
+                                                                          Dr. A. Duisenbiyev
+       15
+                         Part 3: The International Control Framework
+
+             The Treaty on the Non-Proliferation of N-weapons (NPT) – 1970
+
+                                     The Grand Bargain:
+
+     •   Non-Nuclear Weapons States (NNWS): Pledge not to acquire nuclear weapons.
+     •   Nuclear Weapons States (NWS): Pledge to pursue disarmament.
+     •   All States: Have the right to peaceful nuclear technology.
+
+
+         Safeguards: NNWS must accept International Atomic Energy Agency (IAEA)
+                        safeguards on all their nuclear material.
+
+
+
+
+                                                                                     Dr. A. Duisenbiyev
+16
+                             The Nuclear Suppliers Group (NSG)
+
+
+
+                   What it is: A group of 48 nuclear supplier countries.
+
+     Purpose: To complement the NPT by creating guidelines for nuclear and nuclear-
+                                  related exports.
+
+              Founded: 1974, in response to India's "peaceful" nuclear test.
+
+ Key Function: Prevents loopholes by ensuring all major suppliers follow the same
+                                      rules.
+
+
+
+                                                                                      Dr. A. Duisenbiyev
+17
+                          How the NSG Works: The Control Lists
+
+
+Part 1: Trigger List: Items especially designed or prepared for nuclear use (e.g.,
+reactors, enrichment plants). Export "triggers" IAEA safeguards.
+
+Part 2: Dual-Use List: Items that have both nuclear and non-nuclear applications (e.g.,
+machine tools, specific materials). Controlled if there is a risk of nuclear end-use.
+
+
+
+ The "Catch-All" Clause: Allows control of any item, even non-listed ones, if there is
+                knowledge or suspicion of use in a nuclear program.
+
+
+
+
+                                                                                     Dr. A. Duisenbiyev
+ 18
+                  Part 4: Case Study: Kazakhstan's Path to a Control
+                                        System
+
+                           Kazakhstan's Unique Nuclear History
+
+• A Nuclear Weapons State: Hosted the Soviet Union's primary nuclear test site
+  (Semipalatinsk) and major weapons infrastructure.
+
+• The Fourth Largest Arsenal: Inherited ~1,400 nuclear warheads after the USSR's collapse.
+
+• A Historic Decision: Voluntarily renounced and transferred all warheads to Russia by 1995.
+
+• Foundational Legacy: This history created a deep understanding of the nuclear fuel cycle
+  and the dangers of proliferation.
+
+
+
+                                                                                  Dr. A. Duisenbiyev
+ 19
+                            The Legal Foundation: National Legislation
+
+
+                                             Key Laws:
+
+     •   On the Control of Specific Goods
+     •   Law of the Republic of Kazakhstan dated December 28, 2022, No. 172-VII ЗРК. The
+         cornerstone law establishing the legal basis for controls.
+
+     •   Government Decrees & Resolutions: Provide detailed procedures and official control lists.
+
+
+
+Objective: To translate international obligations (NPT, UNSCR 1540) into enforceable
+                                    national law.
+
+
+
+                                                                                                 Dr. A. Duisenbiyev
+20
+                                The Institutional Framework
+
+
+The Authorized Body: A dedicated government agency (e.g., under the Ministry of
+              Industry) responsible for licensing dual-use exports.
+
+     Customs Committee: The enforcement arm at the border, trained to identify and
+                             inspect controlled items.
+
+Inter-Agency Coordination: Involves other bodies like the Ministry of Foreign Affairs
+          and the security services for risk assessment and intelligence.
+
+
+
+
+                                                                                     Dr. A. Duisenbiyev
+21
+                                       The National Control List
+
+What it is: The official list of goods, technologies, and software subject to control in
+                                        Kazakhstan.
+
+                           Basis: Harmonized with the lists of the:
+     •   Nuclear Suppliers Group (NSG)
+     •   Missile Technology Control Regime (MTCR)
+     •   Australia Group (AG)
+     •   Wassenaar Arrangement (WA)
+
+
+Significance: Ensures Kazakhstan controls the same items as other supplier nations,
+                     preventing it from becoming a weak link.
+
+
+
+
+                                                                                       Dr. A. Duisenbiyev
+22
+                                       The Licensing Process
+
+
+1. Application: Exporter submits a detailed application to the Authorized Body.
+
+2. Inter-Agency Review: Assessment of the item, end-user, end-use, and risk of diversion.
+
+3. Decision: License is granted or denied based on non-proliferation criteria.
+
+4. Post-Shipment Verification: In some cases, follow-up to ensure correct end-use.
+
+
+
+
+                                                                                      Dr. A. Duisenbiyev
+    23
+                                      Enforcement & Penalties
+
+• Customs Controls: Physical inspection of shipments at border crossings.
+
+• Investigations: For suspected violations of export control laws.
+
+• Penalties: Can include heavy fines, confiscation of goods, and criminal prosecution for severe
+  offenses.
+
+• Goal: To create a credible deterrent against illicit trade.
+
+
+
+
+                                                                                      Dr. A. Duisenbiyev
+    24
+                                International Cooperation & Integration
+• Engagement with Regimes: Kazakhstan
+  actively participates as an observer or seeks
+  membership in regimes like the NSG and
+  Wassenaar Arrangement.
+
+• Regional Cooperation: Works with
+  neighboring countries to combat illicit
+  trafficking.
+
+• Assistance Programs: Partners with
+  countries and organizations (e.g., the US,
+  EU, UNODA) for training and capacity
+  building.
+
+
+                                                                          Dr. A. Duisenbiyev
+         25
+                                         Challenges for Kazakhstan
+
+• Vast Territory: Difficult to monitor all
+  border crossings effectively.
+
+• Economic Development: Balancing strong
+  controls with the desire to promote trade
+  and attract high-tech industry.
+
+• Keeping Pace: Continuously training
+  officials and updating systems to match
+  evolving technology and proliferation
+  tactics.
+
+
+
+
+                                                                     Dr. A. Duisenbiyev
+        26
+                                                      Conclusion
+
+                                        Key Takeaway 1: The Dual-Use Web
+
+ Nuclear weapons proliferation is not just about raw materials; it's about a complex web of dual-use technologies,
+                                from advanced materials to precision engineering.
+                                        Key Takeaway 2: A Layered Defense is Essential
+   No single tool is sufficient. An effective system requires:
+
+   • International Law (NPT)
+   • Supplier Guidelines (NSG)
+   • National Implementation (Laws, Lists, Enforcement)
+
+                                    Key Takeaway 3: Kazakhstan as a Model
+
+Kazakhstan's journey—from a nuclear-armed state to a leader in non-proliferation with a robust export control
+system—demonstrates that strong controls are a pillar of national sovereignty and international security.
+
+
+
+                                                                                                      Dr. A. Duisenbiyev
+     27
+                           The Future of Nuclear Trade Control
+
+
+
+• Emerging Technologies: Controlling intangible technology transfers (software, data).
+
+• Cyber Threats: Securing sensitive data from digital theft.
+
+• Global Partnerships: Continued cooperation is the only way to stay ahead of
+  proliferators.
+
+
+
+
+                                                                                   Dr. A. Duisenbiyev
+ 28
+                             Final Thought
+
+
+
+
+   Strategic trade control is not an obstacle to trade; it is the
+foundation for secure and responsible trade in the 21st century.
+
+
+
+
+                                                              Dr. A. Duisenbiyev
+29
+                                        Control Questions
+
+1. Explain the fundamental difference between a fission bomb and a "dirty bomb." Why is this
+   distinction critical for policymakers?
+
+2. Describe the "Grand Bargain" of the NPT. What is the role of the Nuclear Suppliers Group in
+   supporting this bargain?
+
+3. How did Kazakhstan's historical experience directly contribute to its modern approach to
+   building an export control system?
+
+4. What are the four key components of Kazakhstan's national strategic trade control system,
+   and why is each one necessary?
+
+5. Imagine a company in Kazakhstan wants to export a high-strength, corrosion-resistant alloy.
+   Why might this be a subject for export control review, and what steps would the licensing
+   process involve?
+                                                                                     Dr. A. Duisenbiyev
+    30
+     T H A N K Y O U!
+
+
+
+
+                        Dr. A. Duisenbiyev
+31
+
+
