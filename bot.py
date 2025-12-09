@@ -3,9 +3,7 @@ import time
 import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
-from dotenv import load_dotenv
 
-load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")  # Ваш рабочий ключ
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
