@@ -16,15 +16,29 @@ def load_lesson(file_path="lesson.txt"):
 
 LESSON_TEXT = load_lesson()
 
-# --- Обращение к Gemini ---
 def ask_gemini(user_input: str, lesson_info: str) -> str:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
     headers = {"Content-Type": "application/json"}
 
     prompt = f"""
-Ты — профессиональный консультант...
-...
+Ты — профессиональный консультант по продукции нашей компании. 
+Твоя задача: понятно, дружелюбно и профессионально отвечать клиенту, 
+используя следующую информацию о товарах:
 
+{lesson_info}
+
+Правила ответа:
+1. Всегда отвечай простым человеческим языком.
+2. Если клиент задаёт вопрос — дай полезный, чёткий ответ.
+3. Если его вопрос связан с нашими товарами — предложи подходящие варианты.
+4. Не будь навязчивым. Продавай мягко: «если хотите», «можете рассмотреть вариант», «подойдут такие позиции».
+5. Если товар имеет фото — скажи, что можешь прислать фото (функционал добавим позже).
+6. Если клиент спрашивает не по теме — корректно отвечай, но мягко направляй назад к продукции.
+
+Сообщение клиента:
+{user_input}
+
+Сформируй профессиональный ответ консультанта:
     """
 
     body = {
@@ -43,6 +57,7 @@ def ask_gemini(user_input: str, lesson_info: str) -> str:
             return "Ошибка при обработке ответа Gemini."
     else:
         return f"Ошибка при запросе к Gemini API: {response.status_code}"
+
 
 # --- Обработчик Telegram ---
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
