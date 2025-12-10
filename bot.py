@@ -31,7 +31,7 @@ def ask_gemini(user_input: str, lesson_info: str) -> str:
     prompt = f"""
 Ты — профессиональный консультант по продукции нашей компании.
 Инструкции:
-- Отвечай коротко и по делу — не более 1500 символов.
+- Отвечай коротко и по делу — не более 2500 символов. Также предлогай доп. протокол который подходит клиенту
 - Если вопрос о товарах — сразу предложи 1–3 конкретных варианта с ID и ценой.
 - Начинай с короткой рекомендации (1 предложение), затем — варианты (если нужно).
 - Не добавляй медицинские или юридические disclaimers.
@@ -59,8 +59,6 @@ def ask_gemini(user_input: str, lesson_info: str) -> str:
 
     response = requests.post(url, headers=headers, json=body)
 
-    print("Gemini response code:", response.status_code)
-    print("Gemini raw:", response.text)
 
     if response.ok:
         try:
