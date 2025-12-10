@@ -11,51 +11,64 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
 # --- Загрузка данных урока из .txt ---
 def load_lesson(file_path="lesson.txt"):
-    with open(file_path, "r", encoding="utf-8") as f:
-        return f.read().strip()
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = f.read().strip()
+            print("Lesson loaded, length:", len(data))
+            return data
+    except Exception as e:
+        print("Ошибка при загрузке урока:", e)
+        return ""
 
 LESSON_TEXT = load_lesson()
 
+# --- Обращение к Gemini ---
 def ask_gemini(user_input: str, lesson_info: str) -> str:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
     headers = {"Content-Type": "application/json"}
 
+    # Инструкции для модели — коротко, по делу, мягкие продажи, 1–3 варианта
     prompt = f"""
-Ты — краткий и профессиональный консультант по продукции компании.
-
-Информация о товарах:
-{lesson_info}
-
+Ты — профессиональный консультант по продукции нашей компании.
 Инструкции:
 - Отвечай коротко и по делу — не более 1500 символов.
-- Если вопрос о товарах — сразу предложи 1–3 конкретных варианта, укажи ID и цену в одной строке на вариант.
+- Если вопрос о товарах — сразу предложи 1–3 конкретных варианта с ID и ценой.
 - Начинай с короткой рекомендации (1 предложение), затем — варианты (если нужно).
-- Не добавляй медицинские или юридические дисклеймеры и не проси «проконсультируйтесь с врачом» — такие фразы **не писать никогда**.
-- Не пиши длинных объяснений и историй.
+- Не добавляй медицинские или юридические disclaimers.
+- Не проси «проконсультируйтесь с врачом».
 - Используй мягкие формулировки: «можете рассмотреть», «подойдёт вариант», «если хотите».
+- Не пиши длинных объяснений и историй.
+
+Информация о товарах / урок:
+{lesson_info}
 
 Сообщение клиента:
 {user_input}
 
-Дай краткий целевой ответ-консультант:
+Сформируй ответ согласно инструкции:
     """
 
     body = {
         "contents": [
-            { "parts": [{"text": prompt}] }
-        ],
-        # Ограничение длины — дополнительная страховка (при наличии поддержки API)
-        "maxOutputTokens": 200
+            {
+                "role": "user",
+                "parts": [{"text": prompt}]
+            }
+        ]
     }
 
     response = requests.post(url, headers=headers, json=body)
+
+    print("Gemini response code:", response.status_code)
+    print("Gemini raw:", response.text)
+
     if response.ok:
         try:
             return response.json()['candidates'][0]['content']['parts'][0]['text']
-        except Exception:
-            return "Ошибка при обработке ответа Gemini."
+        except Exception as e:
+            return f"Ошибка при обработке ответа Gemini: {e}"
     else:
-        return f"Ошибка при запросе к Gemini API: {response.status_code}"
+        return f"Ошибка при запросе к Gemini API: {response.status_code} - {response.text}"
 
 # --- Обработчик Telegram ---
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
