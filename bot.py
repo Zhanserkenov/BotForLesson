@@ -3,8 +3,11 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
- GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
- TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+#GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+#TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+
+GEMINI_API_KEY = "AIzaSyDAmuE3khqBNl9aZqST-3znFf9_V4kObZI"
+TELEGRAM_BOT_TOKEN = "7664564561:AAE03bGBHGqVB_lxIwLf_v5aTvHTaU7P9JQ"
 
 # --- Загрузка данных урока из .txt ---
 def load_lesson(file_path="lesson.txt"):
